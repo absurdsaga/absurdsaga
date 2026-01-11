@@ -1,6 +1,6 @@
-# The Philosophy of Absurd Saga
+# Code of Conduct: The Philosophy of Absurd Saga
 
-The underlying philosophy of the game Absurd Saga is important to establish early on in order to make sure it is adhered to and that the game reflects this vision.
+The underlying philosophy of the game Absurd Saga is important to establish early on in order to make sure it is adhered to and that the game reflects this vision. This document is the Code of Conduct for this project for all its contributors to follow.
 
 First of all are the aspects of the game itself. It needs to have an easy user interface that almost anyone can use, including those with disabilities and those who are beginners to video games, while also having an enthralling experience for seasoned gamers as well by offering fun, rewarding, and interesting gameplay to those who play it.
 
